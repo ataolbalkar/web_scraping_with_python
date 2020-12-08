@@ -5,3 +5,6 @@ My python codes for web scrapping.
 
 ### Quotes to Scrape:
 Scrapes 'qoutes.toscrape.com'.
+
+### Books to Scrape:
+Scrapes 'books.toscrape.com'.
