@@ -1,5 +1,5 @@
 # web_scraping_with_python
-My python codes for web scrapping.
+My python codes for web scraping.
 
 ## Current Content
 
